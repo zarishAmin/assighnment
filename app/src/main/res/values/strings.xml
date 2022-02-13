@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assighnment 1</string>
+    <string name="foodude">FOODUDE</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signin">SIGN IN</string>
+    <string name="new_user">new user?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="todo">TODO</string>
+</resources>
